@@ -14,14 +14,14 @@ Requirements
 The data used for this project is the "Loan Approval" dataset which can be obtained from Kaggle.
 File Descriptions
 
-    loan_approval_prediction.ipynb: Jupyter notebook containing the code and explanations for the project.
-    loan_approval_data.csv: The dataset used for this project.(load the dataset from kaggle)
+1)loan_approval_prediction.ipynb: Jupyter notebook containing the code and explanations for the project.
+2)loan_approval_data.csv: The dataset used for this project.(load the dataset from kaggle)
 
 # Instructions
 
-    Clone this repository to your local machine using git clone https://github.com/tusharrewatkar/loan-approval-prediction.git
-    Open the Jupyter notebook using jupyter notebook loan_approval_prediction.ipynb
-    Follow the instructions in the notebook to understand and run the code.
+   1)Clone this repository to your local machine using git clone https://github.com/tusharrewatkar/loan-approval-prediction.git
+   2)Open the Jupyter notebook using jupyter notebook loan_approval_prediction.ipynb
+   3)Follow the instructions in the notebook to understand and run the code.
 
 # Conclusion
 
